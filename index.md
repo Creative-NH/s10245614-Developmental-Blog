@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog (WIP)!
+title: Welcome to my blog!
 ---
 
